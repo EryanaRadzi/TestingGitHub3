@@ -9,7 +9,7 @@ namespace TestingGitHub3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("yana ngekkkk");
+            Console.WriteLine("yanasssfttttt ngekssasaksaaaaaaakk");
         }
     }
 }
