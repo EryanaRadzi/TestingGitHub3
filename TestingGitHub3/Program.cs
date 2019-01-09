@@ -9,6 +9,10 @@ namespace TestingGitHub3
     {
         static void Main(string[] args)
         {
+
+
+
+
             //fatin ubah
             Console.WriteLine("yanasssfttttt ngekssasaksaaaaaaakk");
         }
