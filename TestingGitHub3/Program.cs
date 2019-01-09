@@ -14,7 +14,7 @@ namespace TestingGitHub3
 
 
             //fatin ubah
-            Console.WriteLine("yanasssfttttt ngekssasaksaaaaaaakk");
+            Console.WriteLine("Fatin try");
         }
     }
 }
